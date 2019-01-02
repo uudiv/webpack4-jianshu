@@ -1,0 +1,24 @@
+body {
+  background-color: pink;
+}
+
+p {
+  color: #f00;
+}
+
+
+li {
+  width: 200px;
+  height: 200px;
+  background-color: #f00;
+  transition: 0.5s;
+  transform: translateX(50px);
+}
+
+.ww {
+  color: #f00;
+}
+
+.gloada {
+  color: #f00;
+}
